@@ -17,7 +17,7 @@ pkg install tsu -y
 pkg install zlib -y
 pkg install openssl -y
 pkg install nodejs -y
-gem install lolcat -y
+gem install lolcat 
 pkg install bastet &> //dev/null
 pkg install vitetris &> //dev/null
 pkg install nsnake &> //dev/null
