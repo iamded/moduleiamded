@@ -12,6 +12,7 @@ pkg install wget -y
 pkg install curl -y
 pkg install ruby -y
 pkg install php -y
+pkg install unzip -y
 pkg install root-repo -y
 pkg install tsu -y
 pkg install zlib -y
