@@ -41,7 +41,7 @@ pip2 install colorama bs4 requests pyfiglet tqdm
 pip3 install colorama bs4 requests pyfiglet tqdm
 python3 -m pip install --upgrade pip
 echo "Pip Already Installed"
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/iamded/hacktr/main/tool.py)"
 clear
 echo "Your Termux is ready...!!!"
 clear
