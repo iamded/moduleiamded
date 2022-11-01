@@ -3,7 +3,7 @@ sleep 3
 termux-open-url https://youtube.com/channel/UCk0IHP3kOrqN86sXjs1c_Xw
 clear
 sleep 5
-echo "Checking package harap menunggu ya bos..!!!"
+echo "Checking package waiitting broo..!!!"
 sleep 3
 termux-setup-storage
 pkg update -y
