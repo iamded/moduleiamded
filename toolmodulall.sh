@@ -16,6 +16,8 @@ pkg install git -y
 pkg install wget -y
 pkg install curl -y
 pkg install python -y
+pkg install python2 -y
+pkg install python3 -y
 pkg install php -y
 pkg install ruby -y
 pkg install mc -y
